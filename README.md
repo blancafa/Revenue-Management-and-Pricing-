@@ -22,11 +22,12 @@ The final project applied revenue management concepts to a local business of our
 - Designing and simulating pricing and capacity strategies
 - Presenting recommendations backed by economic modelling
 
-## 📎 Notes
-- All submissions include a PDF report and the corresponding code in `.R` format.
-- Assumptions and methodology are clearly stated in each project.
+## 📁 Folder Structure
+Each folder includes:
+- 📄  The original assignment description
+- 📄  Written analysis and solutions
+- 💻  All supporting R code (commented and reproducible)
+- 📊  Any relevant dataset used in the analysis
 
----
 
-Feel free to explore the folders for detailed analysis and code.
 
